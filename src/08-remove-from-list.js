@@ -18,7 +18,7 @@
  */
 
 function removeKFromList(/* l, k */) {
-  throw new Error('Not implemented');
+  // односвязный список
 }
 
 module.exports = removeKFromList;
